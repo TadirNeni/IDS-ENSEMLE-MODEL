@@ -1,2 +1,2 @@
-# IDS-ENSEMLE-MODEL
+# IDS-ENSEMBLE-MODEL
 Intrusion Detection System
